@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_basic/v_1.0.2" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.2" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" odpoved_datum_cas="2016-03-22T09:39:59" odpoved_pocet="1" odpoved_typ="Basic" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_basic/v_1.0.2 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_basic/v_1.0.2/ares_answer_basic_v_1.0.2.xsd" Id="ares">
+    <are:Odpoved>
+        <dtt:Pomocne_ID>0</dtt:Pomocne_ID>
+        <dtt:Error>
+            <dtt:Error_kod>1</dtt:Error_kod>
+            <dtt:Error_text>
+                Chyba 61 - subjekt zanikl
+            </dtt:Error_text>
+        </dtt:Error>
+        <dtt:Vysledek_hledani>
+            <dtt:Kod>2</dtt:Kod>
+        </dtt:Vysledek_hledani>
+        <dtt:Pocet_zaznamu>0</dtt:Pocet_zaznamu>
+        <dtt:Uvod>
+            <dtt:Nadpis>Výpis z dat Registru ARES - aktuální stav ke dni 2016-03-21</dtt:Nadpis>
+            <dtt:Aktualizace_DB>2016-03-21</dtt:Aktualizace_DB>
+            <dtt:Datum_vypisu>2016-03-22</dtt:Datum_vypisu>
+            <dtt:Cas_vypisu>09:40:00</dtt:Cas_vypisu>
+            <dtt:Typ_odkazu>0</dtt:Typ_odkazu>
+        </dtt:Uvod>
+    </are:Odpoved>
+</are:Ares_odpovedi>

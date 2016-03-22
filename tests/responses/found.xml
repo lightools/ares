@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_basic/v_1.0.2" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.2" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" odpoved_datum_cas="2016-03-22T09:43:21" odpoved_pocet="1" odpoved_typ="Basic" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_basic/v_1.0.2 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_basic/v_1.0.2/ares_answer_basic_v_1.0.2.xsd" Id="ares">
+    <are:Odpoved>
+        <dtt:Pomocne_ID>0</dtt:Pomocne_ID>
+        <dtt:Vysledek_hledani>
+            <dtt:Kod>1</dtt:Kod>
+        </dtt:Vysledek_hledani>
+        <dtt:Pocet_zaznamu>1</dtt:Pocet_zaznamu>
+        <dtt:Uvod>
+            <dtt:Nadpis>Výpis z dat Registru ARES - aktuální stav ke dni 2016-03-21</dtt:Nadpis>
+            <dtt:Aktualizace_DB>2016-03-21</dtt:Aktualizace_DB>
+            <dtt:Datum_vypisu>2016-03-22</dtt:Datum_vypisu>
+            <dtt:Cas_vypisu>09:43:22</dtt:Cas_vypisu>
+            <dtt:Typ_odkazu>0</dtt:Typ_odkazu>
+        </dtt:Uvod>
+        <dtt:Vypis_basic>
+            <dtt:ICO zdroj="OR">27082440</dtt:ICO>
+            <dtt:DIC zdroj="DPH">CZ27082440</dtt:DIC>
+            <dtt:Obchodni_firma zdroj="OR">Alza.cz a.s.</dtt:Obchodni_firma>
+            <dtt:Datum_vzniku>2003-08-26</dtt:Datum_vzniku>
+            <dtt:Pravni_forma zdroj="OR">
+                <dtt:Kod_PF>121</dtt:Kod_PF>
+                <dtt:Nazev_PF>Akciová společnost</dtt:Nazev_PF>
+            </dtt:Pravni_forma>
+            <dtt:Adresa_dorucovaci zdroj="ARES">
+                <dtt:Ulice_cislo>Jateční 1530</dtt:Ulice_cislo>
+                <dtt:PSC_obec>17000 Praha</dtt:PSC_obec>
+            </dtt:Adresa_dorucovaci>
+            <dtt:Adresa_ARES zdroj="ARES">
+                <dtt:ID_adresy>203396675</dtt:ID_adresy>
+                <dtt:Kod_statu>203</dtt:Kod_statu>
+                <dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+                <dtt:Nazev_obce>Praha</dtt:Nazev_obce>
+                <dtt:Nazev_casti_obce>Holešovice</dtt:Nazev_casti_obce>
+                <dtt:Nazev_mestske_casti>Praha 7</dtt:Nazev_mestske_casti>
+                <dtt:Nazev_ulice>Jateční</dtt:Nazev_ulice>
+                <dtt:Cislo_domovni>1530</dtt:Cislo_domovni>
+                <dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+                <dtt:Cislo_orientacni>33</dtt:Cislo_orientacni>
+                <dtt:PSC>17000</dtt:PSC>
+                <dtt:Adresa_UIR>
+                    <udt:Kod_oblasti>19</udt:Kod_oblasti>
+                    <udt:Kod_kraje>19</udt:Kod_kraje>
+                    <udt:Kod_okresu>3100</udt:Kod_okresu>
+                    <udt:Kod_obce>554782</udt:Kod_obce>
+                    <udt:Kod_pobvod>78</udt:Kod_pobvod>
+                    <udt:Kod_nobvod>78</udt:Kod_nobvod>
+                    <udt:Kod_casti_obce>490067</udt:Kod_casti_obce>
+                    <udt:Kod_mestske_casti>500186</udt:Kod_mestske_casti>
+                    <udt:PSC>17000</udt:PSC>
+                    <udt:Kod_ulice>449571</udt:Kod_ulice>
+                    <udt:Cislo_domovni>1530</udt:Cislo_domovni>
+                    <udt:Typ_cislo_domovni>1</udt:Typ_cislo_domovni>
+                    <udt:Cislo_orientacni>33</udt:Cislo_orientacni>
+                    <udt:Kod_adresy>22754075</udt:Kod_adresy>
+                    <udt:Kod_objektu>22148531</udt:Kod_objektu>
+                    <udt:PCD>310022741</udt:PCD>
+                </dtt:Adresa_UIR>
+            </dtt:Adresa_ARES>
+            <dtt:Priznaky_subjektu>NAAANANNNNNNNNNNNNNNPNNNANNNNN</dtt:Priznaky_subjektu>
+            <dtt:Registrace_OR>
+                <dtt:Spisova_znacka>
+                    <dtt:Soud>
+                        <dtt:Kod>1</dtt:Kod>
+                        <dtt:Text>Městský soud v Praze</dtt:Text>
+                    </dtt:Soud>
+                    <dtt:Oddil_vlozka>B 8573</dtt:Oddil_vlozka>
+                </dtt:Spisova_znacka>
+                <dtt:Stav_subjektu_OR>
+                    <dtt:Stav_subjektu>Aktivní</dtt:Stav_subjektu>
+                    <dtt:Konkurz>
+                        <dtt:Kod>0</dtt:Kod>
+                    </dtt:Konkurz>
+                    <dtt:Vyrovnani>
+                        <dtt:Kod>0</dtt:Kod>
+                    </dtt:Vyrovnani>
+                    <dtt:Zamitnuti>
+                        <dtt:Kod>0</dtt:Kod>
+                    </dtt:Zamitnuti>
+                    <dtt:Likvidace>
+                        <dtt:Kod>0</dtt:Kod>
+                    </dtt:Likvidace>
+                </dtt:Stav_subjektu_OR>
+            </dtt:Registrace_OR>
+            <dtt:Registrace_RZP>
+                <dtt:Zivnostensky_urad>
+                    <dtt:Kod_ZU>310007</dtt:Kod_ZU>
+                    <dtt:Nazev_ZU>Úřad městské části Praha 7</dtt:Nazev_ZU>
+                </dtt:Zivnostensky_urad>
+                <dtt:Financni_urad>
+                    <dtt:Kod_FU>7</dtt:Kod_FU>
+                    <dtt:Nazev_FU>Praha 7</dtt:Nazev_FU>
+                </dtt:Financni_urad>
+            </dtt:Registrace_RZP>
+            <dtt:Kategorie_poctu_pracovniku zdroj="RES">500 - 999 zaměstnanců</dtt:Kategorie_poctu_pracovniku>
+            <dtt:Nace>
+                <dtt:NACE zdroj="RES">47911</dtt:NACE>
+                <dtt:NACE zdroj="RES">2611</dtt:NACE>
+                <dtt:NACE zdroj="RES">2630</dtt:NACE>
+                <dtt:NACE zdroj="RES">279</dtt:NACE>
+                <dtt:NACE zdroj="RES">3314</dtt:NACE>
+                <dtt:NACE zdroj="RES">461</dtt:NACE>
+                <dtt:NACE zdroj="RES">4690</dtt:NACE>
+                <dtt:NACE zdroj="RES">471</dtt:NACE>
+                <dtt:NACE zdroj="RES">49410</dtt:NACE>
+                <dtt:NACE zdroj="RES">56100</dtt:NACE>
+                <dtt:NACE zdroj="RES">620</dtt:NACE>
+                <dtt:NACE zdroj="RES">6492</dtt:NACE>
+                <dtt:NACE zdroj="RES">731</dtt:NACE>
+            </dtt:Nace>
+            <dtt:Predmety_podnikani>
+                <dtt:Predmet_podnikani zdroj="OR">
+                    <dtt:Text>
+                        výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a telekomunikačních zařízení
+                    </dtt:Text>
+                    <dtt:Text>
+                        výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+                    </dtt:Text>
+                    <dtt:Text>
+                        poskytování nebo zprostředkování spotřebitelského úvěru
+                    </dtt:Text>
+                    <dtt:Text>
+                        zprostředkovatelská činnost v pojišťovnictví
+                    </dtt:Text>
+                    <dtt:Text>
+                        hostinská činnost
+                    </dtt:Text>
+                    <dtt:Text>
+                        silniční motorová doprava - nákladní provozovaná vozidly nebo jízdními soupravami o největší povolené hmotnosti nepřesahující 3,5 tuny, jsou-li určeny k přepravě zvířat nebo věcí
+                    </dtt:Text>
+                </dtt:Predmet_podnikani>
+                <dtt:Predmet_podnikani zdroj="RZP">
+                    <dtt:Text>Poskytování nebo zprostředkování spotřebitelského úvěru</dtt:Text>
+                    <dtt:Text>Výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a telekomunikačních zařízení</dtt:Text>
+                    <dtt:Text>Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona</dtt:Text>
+                    <dtt:Text>Hostinská činnost</dtt:Text>
+                    <dtt:Text>Silniční motorová doprava - nákladní provozovaná vozidly nebo jízdními soupravami o největší povolené hmotnosti nepřesahující 3,5 tuny, jsou-li určeny k přepravě zvířat nebo věcí</dtt:Text>
+                </dtt:Predmet_podnikani>
+            </dtt:Predmety_podnikani>
+            <dtt:Obory_cinnosti>
+                <dtt:Obor_cinnosti>
+                    <dtt:Kod>Z01047</dtt:Kod>
+                    <dtt:Text>Zprostředkování obchodu a služeb</dtt:Text>
+                </dtt:Obor_cinnosti>
+                <dtt:Obor_cinnosti>
+                    <dtt:Kod>Z01048</dtt:Kod>
+                    <dtt:Text>Velkoobchod a maloobchod</dtt:Text>
+                </dtt:Obor_cinnosti>
+                <dtt:Obor_cinnosti>
+                    <dtt:Kod>Z01056</dtt:Kod>
+                    <dtt:Text>Poskytování software, poradenství v oblasti informačních technologií, zpracování dat, hostingové a související činnosti a webové portály</dtt:Text>
+                </dtt:Obor_cinnosti>
+                <dtt:Obor_cinnosti>
+                    <dtt:Kod>Z01059</dtt:Kod>
+                    <dtt:Text>Pronájem a půjčování věcí movitých</dtt:Text>
+                </dtt:Obor_cinnosti>
+                <dtt:Obor_cinnosti>
+                    <dtt:Kod>Z01066</dtt:Kod>
+                    <dtt:Text>Reklamní činnost, marketing, mediální zastoupení</dtt:Text>
+                </dtt:Obor_cinnosti>
+            </dtt:Obory_cinnosti>
+        </dtt:Vypis_basic>
+    </are:Odpoved>
+</are:Ares_odpovedi>
