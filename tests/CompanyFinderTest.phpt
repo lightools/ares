@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests;
+namespace Lightools\Tests;
 
 use Bitbang\Http\BadResponseException;
 use Bitbang\Http\IClient;
