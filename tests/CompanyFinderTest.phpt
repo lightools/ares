@@ -63,6 +63,11 @@ class CompanyFinderTest extends TestCase {
         }, LookupFailedException::class);
     }
 
+    protected function tearDown() {
+        parent::tearDown();
+        Mockery::close();
+    }
+
     /**
      * @param string $responseBody
      * @return MockInterface
