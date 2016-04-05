@@ -8,7 +8,7 @@ namespace Lightools\Ares;
 class Company {
 
     /**
-     * @var int
+     * @var string
      */
     private $identification;
 
@@ -18,7 +18,7 @@ class Company {
     private $companyname;
 
     /**
-     * @var int
+     * @var string
      */
     private $vatNumber;
 
